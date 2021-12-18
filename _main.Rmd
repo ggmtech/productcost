@@ -1,6 +1,6 @@
 ---
 title: "A Book"
-author: "Frida Gomam"
+author: "QA(Mech)"
 site: bookdown::bookdown_site
 documentclass: book
 output:
@@ -8,17 +8,16 @@ output:
   #bookdown::pdf_book: default
 ---
 
-# Hello World
+<!-- # Hello World
 
 Hi.
 
-Bye.
+Bye.   --->
 
 <!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
 
 <!--chapter:end:index.Rmd-->
 
-########################
 
 <!--chapter:end:productcostdraftfile.Rmd-->
 
